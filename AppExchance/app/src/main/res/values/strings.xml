@@ -36,12 +36,17 @@
     <string name="favoritos">Lista de Favoritos</string>
     <string name="confg">Configurações</string>
     <string name="usuario_host"> Familia Jones</string>
+    <string name="usuario_host2"> Familia Lovato</string>
     <string name="usuario_inter"> Anna Alves</string>
 
     <string name="cid_londres"> Londres</string>
     <string name="classificar"> Classificar</string>
     <string name="filtros"> Filtros</string>
     <string name="qtd_pesquisa"> Exibindo 20 propriedades.</string>
+    <string name="num_avaliacao"> 4,8</string>
+    <string name="status_avaliacao"> Ótimo (250)</string>
+    <string name="quarto_disponivel"> Quarto Disponivel</string>
+    <string name="opcoes_propriedades"> Mais Opções </string>
     
     
 
