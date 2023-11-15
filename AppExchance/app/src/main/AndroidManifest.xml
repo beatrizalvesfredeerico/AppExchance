@@ -15,6 +15,9 @@
         android:theme="@style/Theme.AppExchance"
         tools:targetApi="31">
         <activity
+            android:name=".TelaPerfilHost"
+            android:exported="false" />
+        <activity
             android:name=".TelaUsuarioIntercambista"
             android:exported="false" />
         <activity

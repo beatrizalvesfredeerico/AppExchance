@@ -29,8 +29,8 @@
     <string name="historico">Histórico</string>
     <string name="chat"> Chat</string>
     <string name="perfil"> Perfil</string>
-    
-    
+
+
     <string name="meu_perfil">Meu Perfil</string>
     <string name="editar">Editar os detalhes</string>
     <string name="favoritos">Lista de Favoritos</string>
@@ -47,7 +47,25 @@
     <string name="status_avaliacao"> Ótimo (250)</string>
     <string name="quarto_disponivel"> Quarto Disponivel</string>
     <string name="opcoes_propriedades"> Mais Opções </string>
-    
-    
+
+    <string name="qtd_avaliacao"> 250 Avaliações</string>
+    <string name="sobre_host"> Sobre </string>
+    <string name="text_sobre">
+        Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut
+        labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris
+        nisi ut aliquip ex ea commodo
+        consequat</string>
+    <string name="text_sobre_mais"> Ler Mais...</string>
+    <string name="regras_casa"> Visualizar todas as Regras da Casa </string>
+    <string name="insta_1"> Acesso gratuito á Internet</string>
+    <string name="insta_2"> Banheiro Individual</string>
+    <string name="insta_3"> Refeições com a familia</string>
+    <string name="exibir_instalacoes"> Exibir todas as instalações</string>
+
+
 
 </resources>
